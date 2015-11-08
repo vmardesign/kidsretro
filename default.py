@@ -133,7 +133,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml", "fanart": "http://i.imgur.com/GyK9PGj.jpg"}]
+SOURCES = [{"url": "https://raw.githubusercontent.com/vmardesign/neotrt/master/masterPrincipal.xml", "fanart": "http://i.imgur.com/GyK9PGj.jpg"}]
 
 
 
